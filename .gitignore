@@ -105,3 +105,7 @@ dist
 
 #vscode settings
 .vscode/
+
+#tasks
+tasks.md
+api.rest
